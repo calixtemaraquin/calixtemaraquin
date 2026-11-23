@@ -1,4 +1,4 @@
-# Hi, I'm Calixte 👋
+# Calixte Maraquin
 
 I'm a computer science student based in Strasbourg, France. I enjoy building useful tools and making them pleasant to use.
 
